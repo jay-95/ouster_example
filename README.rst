@@ -1,3 +1,7 @@
+This sources are from https://github.com/ouster-lidar/ouster_example
+This repository is just only for my convinience, and I'm not going to use it as commercial purpose.
+I referred how to set up the os1-16 lidar with ros in https://saint-swithins-day.tistory.com/39
+
 ===================
 Ouster Example Code
 ===================
